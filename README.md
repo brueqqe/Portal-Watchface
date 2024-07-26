@@ -18,9 +18,9 @@ Now, let’s talk features. This watchface isn’t just about telling time. It�
 ## Styles
 
 And the design? Sleek, stylish, and infused with just the right amount of Aperture Science flair. There a three different stlyes:
-- **Dark**: For those who like their science sleek and mysterious.
+- **Dark**: For those late-night testing sessions.
 - **Portal 1**: Classic, clean, and ready for testing.
-- **Portal 2**: Because nothing says “I’ve been through rigorous testing” like a bit of wear and tear.
+- **Portal 2**: Weathered down look.
   
 ![Portal Watchface Demo Styles 2](https://github.com/user-attachments/assets/0444c967-0588-4986-8079-a0d9c77565d2)
 
