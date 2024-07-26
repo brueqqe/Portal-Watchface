@@ -1,6 +1,6 @@
 Cave Johnson here! Listen up, test subjects. We’ve got something new from the Aperture Science labs that’s going to blow your mind. Introducing the Aperture Science Smartwatch Watchface. This isn’t just any watchface; it’s a quantum leap in timekeeping technology.
 
-Warning: Side effects may include increased productivity, spontaneous bursts of genius, and an uncontrollable urge to test the limits of human endurance. If you experience any of these symptoms, congratulations! You’re doing science right.
+WARNING: Side effects may include increased productivity, spontaneous bursts of genius, and an uncontrollable urge to test the limits of human endurance. If you experience any of these symptoms, congratulations! You’re doing science right.
 
 Now, let’s talk features. This watchface isn’t just about telling time. It’s about dominating time. With precision down to the nanosecond, you’ll never be late for another test chamber again. The features include:
 
