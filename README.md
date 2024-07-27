@@ -17,7 +17,7 @@ Now, let’s talk features. This watchface isn’t just about telling time. It�
 
 ## Styles
 
-And the design? Sleek, stylish, and infused with just the right amount of Aperture Science flair. There a three different stlyes:
+And the design? Sleek, stylish, and infused with just the right amount of Aperture Science flair. There are three different stlyes:
 - **Dark**: For those late-night testing sessions.
 - **Portal 1**: Classic, clean, and ready for testing.
 - **Portal 2**: Weathered down look.
@@ -26,7 +26,7 @@ To switch between the styles, simply tap anywhere on the watchface. The dark sty
   
 ![Portal Watchface Demo Styles 2](https://github.com/user-attachments/assets/0444c967-0588-4986-8079-a0d9c77565d2)
 
-So, strap on this watchface and remember: Science isn’t about why. It’s about why not! Get yours today and start living on Aperture time. Cave Johnson, we’re done here.
+So, strap on this watchface and remember: Science isn’t about why. It’s about why not! Cave Johnson, we’re done here.
 
 # Installation Guide
 To use the Portal Watchface, the KWCH Kustom Watchface Creator app must be installed on the smartphone. IMPORTANT: To import the Portal Watchface, the Pro version of the app must be purchased.
